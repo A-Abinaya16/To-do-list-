@@ -18,6 +18,6 @@ It is a beginner friendly yet practical project!
 
 You can see how the Web App is working by clicking the below link
 
-https://alfina-m.github.io/To-Do-List-Web-App/
+
 
 Enjoy the features
